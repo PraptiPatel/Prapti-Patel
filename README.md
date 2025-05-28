@@ -1,3 +1,3 @@
 # Prapti-Patel
 Hii everyone, I am Prapti Patel.
-I am computer science enthusiasts.
+I am computer science enthusiast.
